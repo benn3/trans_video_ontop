@@ -1,3 +1,4 @@
+#by Ben for Ben 
 WinSet_Click_Through(I, T="254") {
 	IfWinExist, % "ahk_id " I
 	{
